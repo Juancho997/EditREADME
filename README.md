@@ -1,4 +1,4 @@
-# Hi! 👋🏽  I´m Juan Bonino, Full Stack Developer in progress.
+# Hi! 👋🏽  I´m Juan Bonino, Full Stack Developer.
 
 ## My toolkit 
 ![badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -11,3 +11,8 @@
 ![badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
   
 ![badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+#pushpin-Projects
+
+
+Pokedex
