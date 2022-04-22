@@ -36,4 +36,4 @@ Sequelize
 
 Deploy : 
 Heroku
-
+https://react-heroku-cors.herokuapp.com/
