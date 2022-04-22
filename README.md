@@ -14,5 +14,26 @@
 
 ## :pushpin: Projects
 
+### Pokedex
 
-Pokedex
+![img](https://i.imgur.com/gAbXjgP.png)
+![img](https://i.imgur.com/wPqv8Qe.png)
+![img](https://i.imgur.com/PUXX1fZ.png)
+![img](https://i.imgur.com/vlNIeIa.png)
+![img](https://i.imgur.com/YJHT3eK.png)
+
+Developed with:
+
+FrontEnd :
+React - Redux
+CSS
+
+BackEnd : 
+NodeJS
+Express
+PostgreSQL
+Sequelize
+
+Deploy : 
+Heroku
+
