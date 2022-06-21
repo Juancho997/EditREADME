@@ -1,4 +1,4 @@
-# Welcome! 👋🏽  Soy Juan Bonino, Back End Software Developer.
+# Bienvenido! 👋🏽  Soy Juan, Back End Software Developer.
 
 Siempre en la búsqueda de nuevos desafíos, me gusta aplicar on-site aquellos aprendizajes nuevos que obtengo, pues son las oportunidades para demostrar de lo que soy capaz. Formado como Full Stack Web Developer, pero enamorado del Backend y sus posibilidades, dirijo mis prácticas con ese rumbo.
 
