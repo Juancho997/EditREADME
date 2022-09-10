@@ -27,9 +27,11 @@ Siempre en la búsqueda de nuevos desafíos, me gusta aplicar on-site aquellos a
 
 Y si nos conocemos?
 
-[!badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) juanboninodev@gmail.com
+[!badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 
+juanboninodev@gmail.com
 
-[!badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) https://www.linkedin.com/in/juan-bonino/
+[!badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
+https://www.linkedin.com/in/juan-bonino/
 
 
 #### Come back any time!
