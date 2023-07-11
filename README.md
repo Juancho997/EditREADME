@@ -15,7 +15,7 @@ Siempre en la búsqueda de nuevos desafíos, me gusta aplicar on-site aquellos a
 ![badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![badge](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![badge](https://camo.githubusercontent.com/783c0ba99432e0f18a998dbbcb3fb46a3f0bb564751c08bbaf138189716c1643/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e5f4157532d3233324633453f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465)
 
 
 
