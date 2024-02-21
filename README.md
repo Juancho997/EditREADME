@@ -1,10 +1,9 @@
-# Qué tal! 👋🏽  Soy Juan, Back End Software Developer.
+# Hi there! 👋🏽  I'm Juan, Back End Software Developer.
 
-Siempre en la búsqueda de nuevos desafíos, me gusta aplicar on-site aquellos aprendizajes nuevos que obtengo, pues son las oportunidades para demostrar de lo que soy capaz. Formado como Full Stack Web Developer, pero enamorado del Backend y sus posibilidades, dirijo mis prácticas hacia esta área.
+Always in search of new challenges, I like to apply on-site the new learnings I obtain, as they are opportunities to demonstrate what I am capable of. Trained as a Full Stack Web Developer, but in love with the Backend and its possibilities, I direct my practices towards this area.
 
 
-
-## Mi toolkit 
+## My toolkit 
 
 ![badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
@@ -16,7 +15,9 @@ Siempre en la búsqueda de nuevos desafíos, me gusta aplicar on-site aquellos a
 ![badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-Y si nos conocemos?
+
+And if we get to know each other?
+
 
 E-mail : juanboninodev@gmail.com
 
